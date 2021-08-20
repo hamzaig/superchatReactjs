@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.message-show {
+  border: 2px solid sandybrown;
+  margin: 15px;
+  padding: 2px;
+  list-style: none;
+}
+
+.username {
+  font-weight: bold;
+}
+
+.text-muted {
+  font-size: 10px;
+  margin-bottom: 15px;
+}
+
+.input-message {
+  width: 70vw !important;
+  /* margin: 5rem auto; */
+  font-size: 3rem !important;
+}
+
+.btn-send {
+  margin: 2px auto !important;
+}
